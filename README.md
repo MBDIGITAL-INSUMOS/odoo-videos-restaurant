@@ -5,3 +5,5 @@ PUNTO DE VENTA ODOO ERP
 [1- Crear Clientes POS](https://youtu.be/ibzEpHkro2g)
 
 [2- Módulo de Puntos](https://youtu.be/JiM_Zhfp1ag)
+
+[3- Pantalla de Cocina](https://youtu.be/DoJcv6J35EY)
