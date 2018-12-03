@@ -9,3 +9,7 @@
 [3- Pantalla de Cocina](https://youtu.be/DoJcv6J35EY)
 
 [4- Crear Boleta Electrónica en Punto de Venta](https://youtu.be/aJRq8TF82Es)
+
+[5- Crear Factura Electrónica en Punto de Venta](https://youtu.be/B6y3JeUu_Bk)
+
+
