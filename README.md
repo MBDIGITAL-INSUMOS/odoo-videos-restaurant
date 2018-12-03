@@ -4,4 +4,4 @@
 
 ## 1- Módulo de Puntos
 
-[Módulo de Puntos](https://www.sii.cl)
+[1.0 Módulo de Puntos](https://www.sii.cl)
