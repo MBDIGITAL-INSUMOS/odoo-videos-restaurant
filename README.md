@@ -4,4 +4,4 @@
 
 ## 1- Módulo de Puntos
 
-[www.sii.cl](https://www.sii.cl) Servicios de impuestos internos Chile
+[www.s1i.cl](https://www.sii.cl)
