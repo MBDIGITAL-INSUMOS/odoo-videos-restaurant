@@ -1,4 +1,4 @@
-## PUNTO DE VENTA ODOO ERP                              WWW:YNEXT.CL
+## PUNTO DE VENTA ODOO ERP -------------------- WWW:YNEXT.CL
 
 ![Alt text](https://github.com/falconsoft3d/instalar-odoo-10/blob/master/img/logo-ynext.png?raw=true "Ynext")
 
