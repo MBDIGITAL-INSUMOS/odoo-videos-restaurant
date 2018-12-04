@@ -1,4 +1,4 @@
-## PUNTO DE VENTA ODOO ERP
+## PUNTO DE VENTA ODOO ERP --  MARLON FALCON  -- +56 9 4299 4534
 ![Alt text](https://github.com/falconsoft3d/instalar-odoo-10/blob/master/img/logo-ynext.png?raw=true "Ynext")
 
 [1- Crear Clientes POS](https://youtu.be/ibzEpHkro2g)
@@ -21,12 +21,6 @@
 
 [10- Tiempo en cocina](https://youtu.be/mq5B1QTtKBQ)
 
-
-
-
-## Marlon Falcón Hernández
-## +56 9 4299 4534
-## mfalcon@falconsolutions.cl
 
 
 
