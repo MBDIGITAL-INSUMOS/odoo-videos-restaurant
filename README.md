@@ -17,6 +17,11 @@
 
 [8- Notas en Punto de Venta](https://youtu.be/S3ZXbzLJhn8)
 
+[9- Boletas Manuales en Punto de Venta](https://youtu.be/P5EW0oVw92g)
+
+
+
+
 
 
 
