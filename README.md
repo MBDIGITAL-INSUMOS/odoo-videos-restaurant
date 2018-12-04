@@ -1,4 +1,4 @@
-## PUNTO DE VENTA ODOO ERP  ----    WhatsApp +56 9 4299 4534
+## PUNTO DE VENTA ODOO ERP
 ![Alt text](https://github.com/falconsoft3d/instalar-odoo-10/blob/master/img/logo-ynext.png?raw=true "Ynext")
 
 [1- Crear Clientes POS](https://youtu.be/ibzEpHkro2g)
@@ -20,6 +20,10 @@
 [9- Boletas Manuales en Punto de Venta](https://youtu.be/P5EW0oVw92g)
 
 [10- Tiempo en cocina](https://youtu.be/mq5B1QTtKBQ)
+
+## Marlon Falcón Hernández
+## +56 9 4299 4534
+## mfalcon@falconsolutions.cl
 
 
 
