@@ -14,4 +14,6 @@
 
 [6- Reporte de cierre de caja](https://youtu.be/4-rYHTj6-7U)
 
+[7- Descuento por Monto en POS](https://youtu.be/D1zyt3wlONk)
+
 
