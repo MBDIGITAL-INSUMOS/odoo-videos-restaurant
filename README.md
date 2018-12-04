@@ -27,7 +27,7 @@
 
 [13- Inventario de productos de Ventas en Cocina](https://youtu.be/X8-BUCv_4ys)
 
-[14- Productos automaticos en pisos](https://youtu.be/dtu17lWnu1Q)
+[14- Productos automáticos en pisos](https://youtu.be/dtu17lWnu1Q)
 
       
 
