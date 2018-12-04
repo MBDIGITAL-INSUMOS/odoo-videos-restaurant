@@ -21,6 +21,8 @@
 
 [10- Tiempo en cocina](https://youtu.be/mq5B1QTtKBQ)
 
+[11- Producción Punto de Venta](https://youtu.be/FTuE5a-1OXU)
+
 
 
 
