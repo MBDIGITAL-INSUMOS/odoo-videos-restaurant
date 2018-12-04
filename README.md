@@ -19,6 +19,10 @@
 
 [9- Boletas Manuales en Punto de Venta](https://youtu.be/P5EW0oVw92g)
 
+[10- Tiempo en cocina](https://youtu.be/mq5B1QTtKBQ)
+
+
+
 
 
 
