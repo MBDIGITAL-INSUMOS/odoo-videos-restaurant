@@ -25,6 +25,8 @@
 
 [12- Proveedores de Pago](https://youtu.be/NwzlzLzDHTg)
 
+[13- Inventario de productos de Ventas en Cocina](https://youtu.be/X8-BUCv_4ys)
+
       
 
 
