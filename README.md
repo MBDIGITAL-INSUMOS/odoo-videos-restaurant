@@ -23,6 +23,13 @@
 
 [11- Producción Punto de Venta](https://youtu.be/FTuE5a-1OXU)
 
+[12- Proveedores de Pago](https://youtu.be/NwzlzLzDHTg)
+
+      
+
+
+
+
 
 
 
