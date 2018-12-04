@@ -15,5 +15,9 @@
 
 [7- Descuento por Monto en POS](https://youtu.be/D1zyt3wlONk)
 
+[8- Notas en Punto de Venta](https://youtu.be/S3ZXbzLJhn8)
+
+
+
 
 
