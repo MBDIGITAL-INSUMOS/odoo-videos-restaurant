@@ -12,4 +12,6 @@
 
 [5- Crear Factura Electrónica en Punto de Venta](https://youtu.be/B6y3JeUu_Bk)
 
+[6- Reporte de cierre de caja](https://youtu.be/4-rYHTj6-7U)
+
 
